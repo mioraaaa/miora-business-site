@@ -1,0 +1,10 @@
+{
+  "name": "MIORA — Smart Kitchen. Better Living.",
+  "short_name": "MIORA",
+  "description": "MIORA premium plastic kitchenware catalogue and wholesale enquiries.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e60012",
+  "icons": [{"src":"assets/miora-original-logo.jpg","sizes":"1536x1536","type":"image/jpeg","purpose":"any"}]
+}
