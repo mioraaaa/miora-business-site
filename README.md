@@ -14,3 +14,4 @@ Customer authentication, database, product CRUD, party-specific discounts, cart/
 
 ## Preview
 Serve this folder with any static HTTP server. For PWA behavior, use HTTPS or localhost.
+
